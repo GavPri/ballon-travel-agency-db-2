@@ -3,108 +3,132 @@
     {
       "name": "Switzerland",
       "description": "Discover Switzerland's timeless beauty, where majestic Alps, crystal-clear lakes, and charming villages await. Embark on epic adventures like hiking the Matterhorn Trail or skiing world-class slopes. Indulge in Swiss hospitality, chocolate, and precision engineering in this picturesque paradise.",
+      "image": "https://images.pexels.com/photos/1586298/pexels-photo-1586298.jpeg?auto=compress&cs=tinysrgb&w=600",
       "hikes": [
         {
           "name": "The Matterhorn Trail",
-          "description": "A classic trek offering stunning views of the iconic Matterhorn peak. Traverse alpine meadows, glacial lakes, and rugged terrain from Zermatt to breathtaking vistas."
+          "description": "A classic trek offering stunning views of the iconic Matterhorn peak. Traverse alpine meadows, glacial lakes, and rugged terrain from Zermatt to breathtaking vistas.",
+          "image": "https://images.pexels.com/photos/15910025/pexels-photo-15910025/free-photo-of-landscape-with-the-view-of-the-matterhorn-mountain-in-the-alps.jpeg?auto=compress&cs=tinysrgb&w=300"
         },
         {
           "name": "The Eiger Trail",
-          "description": "A scenic hike from Grindelwald to Kleine Scheidegg, providing breathtaking views of the Eiger North Face and surrounding peaks amidst lush valleys and cascading waterfalls."
+          "description": "A scenic hike from Grindelwald to Kleine Scheidegg, providing breathtaking views of the Eiger North Face and surrounding peaks amidst lush valleys and cascading waterfalls.",
+          "image": "https://images.pexels.com/photos/18261770/pexels-photo-18261770/free-photo-of-eiger-mount-in-alps.jpeg?auto=compress&cs=tinysrgb&w=300"
         },
         {
           "name": "The Aletsch Glacier Trail",
-          "description": "Experience the longest glacier in the Alps on this trail from Bettmeralp to Riederalp. Enjoy panoramic views of the Aletsch Glacier and surrounding mountains."
+          "description": "Experience the longest glacier in the Alps on this trail from Bettmeralp to Riederalp. Enjoy panoramic views of the Aletsch Glacier and surrounding mountains.",
+          "image": "https://images.pexels.com/photos/13963565/pexels-photo-13963565.jpeg?auto=compress&cs=tinysrgb&w=300"
         }
       ]
     },
     {
       "name": "New Zealand",
       "description": "Explore New Zealand's stunning landscapes, from the dramatic peaks of the Southern Alps to the pristine beaches of the North Island. Immerse yourself in Maori culture, thrilling outdoor adventures, and breathtaking scenery at every turn.",
+      "image": "https://images.pexels.com/photos/698396/pexels-photo-698396.jpeg?auto=compress&cs=tinysrgb&w=300",
       "hikes": [
         {
           "name": "Abel Tasman Coast Track",
-          "description": "Wander through golden beaches, native forests, and turquoise waters in Abel Tasman National Park. Encounter stunning coastal vistas and relax in the beauty of nature."
+          "description": "Wander through golden beaches, native forests, and turquoise waters in Abel Tasman National Park. Encounter stunning coastal vistas and relax in the beauty of nature.",
+          "image": "https://images.pexels.com/photos/11375334/pexels-photo-11375334.jpeg?auto=compress&cs=tinysrgb&w=300"
         },
         {
           "name": "Routeburn Track",
-          "description": "Crossing between Fiordland and Mt. Aspiring National Parks, this alpine track offers vistas of snow-capped peaks, crystal-clear lakes, and deep valleys amidst stunning landscapes."
+          "description": "Crossing between Fiordland and Mt. Aspiring National Parks, this alpine track offers vistas of snow-capped peaks, crystal-clear lakes, and deep valleys amidst stunning landscapes.",
+          "image": "https://media.istockphoto.com/id/1356514238/photo/panorama-view-of-lake-harris-and-mountain-ranges-routeburn-track-south-island.jpg?s=612x612&w=0&k=20&c=RRNbi5sALV1bJIAgMhK_vIsowynz5x9hVojZCf3fiOI="
         },
         {
           "name": "Mueller Hut Route",
-          "description": "A challenging hike near Mount Cook village offering panoramic views of New Zealand's highest peaks, including Aoraki/Mount Cook. Experience alpine terrain and breathtaking vistas."
+          "description": "A challenging hike near Mount Cook village offering panoramic views of New Zealand's highest peaks, including Aoraki/Mount Cook. Experience alpine terrain and breathtaking vistas.",
+          "image": "https://media.istockphoto.com/id/473319374/photo/mueller-hut-in-southern-alps-in-nz.jpg?s=612x612&w=0&k=20&c=o_F0zy5OwBgdEHa068s5_Hw9fNkUU-e6FM3HA7Wm2Jo="
         }
       ]
     },
     {
       "name": "Canada",
       "description": "Experience the vast wilderness of Canada, where rugged coastlines, towering mountains, and ancient forests beckon adventurers. Discover vibrant cities, diverse cultures, and endless opportunities for outdoor exploration, from kayaking in coastal waters to hiking remote trails.",
+      "image": "https://media.istockphoto.com/id/471926619/photo/moraine-lake-at-sunrise-banff-national-park-canada.jpg?s=612x612&w=0&k=20&c=mujiCtVk5QA697SD3d8V8BGmd91-8HlxCNHkolEA0Bo=",
       "hikes": [
         {
           "name": "The West Coast Trail",
-          "description": "Traverse rugged coastal terrain, old-growth forests, and pristine beaches on Vancouver Island. Encounter wildlife and explore the Pacific coastline on this challenging multi-day hike."
+          "description": "Traverse rugged coastal terrain, old-growth forests, and pristine beaches on Vancouver Island. Encounter wildlife and explore the Pacific coastline on this challenging multi-day hike.",
+          "image": "https://media.istockphoto.com/id/501707966/photo/durdle-door-dorset-beach.jpg?s=612x612&w=0&k=20&c=tBfmNdPTLOO_G6D-cikqzkWqcs3H5m2c1GfZba7OpIM="
         },
         {
           "name": "The Skyline Trail",
-          "description": "Located in Jasper National Park, this scenic trail offers sweeping views of mountains, glaciers, and valleys. Experience the beauty of the Canadian Rockies on this iconic hike."
+          "description": "Located in Jasper National Park, this scenic trail offers sweeping views of mountains, glaciers, and valleys. Experience the beauty of the Canadian Rockies on this iconic hike.",
+          "image": "https://media.istockphoto.com/id/612267546/photo/cabot-trail-look-off.jpg?s=612x612&w=0&k=20&c=eZvrYjSQSmFzul2dPNu332WRZCyW0zuevi5EF4SXwAY="
         },
         {
           "name": "The Fundy Footpath",
-          "description": "Stretching along the Bay of Fundy, this challenging hike features rugged cliffs, coastal vistas, and the world's highest tides. Explore remote wilderness and stunning landscapes in New Brunswick."
+          "description": "Stretching along the Bay of Fundy, this challenging hike features rugged cliffs, coastal vistas, and the world's highest tides. Explore remote wilderness and stunning landscapes in New Brunswick.",
+          "image": "https://media.istockphoto.com/id/1278446012/photo/dickson-falls-trail-in-fundy-national-park.jpg?s=612x612&w=0&k=20&c=q4kvuIpHo0PAF60JG64ExO-paLo22DVZpQ0Jy0BO970="
         }
       ]
     },
     {
       "name": "Norway",
       "description": "Norway invites you to discover its awe-inspiring natural wonders, from majestic fjords to soaring mountains and picturesque villages. Embark on epic hikes like Preikestolen or enjoy scenic drives along winding coastal roads, immersing yourself in Nordic charm and outdoor adventure.",
+      "image": "https://media.istockphoto.com/id/840781672/photo/beautiful-nature-norway-aerial-photography.jpg?s=612x612&w=0&k=20&c=dDzue4-TkX8dNufr1BVICWtvY5mLtNdcqwM2kpKitWM=",
       "hikes": [
         {
           "name": "Preikestolen (Pulpit Rock) Trail",
-          "description": "Overlooking the Lysefjord near Stavanger, this iconic hike takes you to a dramatic cliff ledge with breathtaking views of the fjord below. Experience the beauty of the Norwegian landscape on this unforgettable trek."
+          "description": "Overlooking the Lysefjord near Stavanger, this iconic hike takes you to a dramatic cliff ledge with breathtaking views of the fjord below. Experience the beauty of the Norwegian landscape on this unforgettable trek.",
+          "image": "https://media.istockphoto.com/id/1485952479/photo/hiking-norway.jpg?s=612x612&w=0&k=20&c=h2k5DMBP-7ryoNKc0LrldgPTWWGlj1actntxTQTpgsg="
         },
         {
           "name": "Romsdalseggen Ridge",
-          "description": "Offering panoramic views of the Romsdalen valley and surrounding peaks, this challenging hike near Åndalsnes is considered one of Norway's most scenic trails. Explore alpine terrain and majestic vistas."
+          "description": "Offering panoramic views of the Romsdalen valley and surrounding peaks, this challenging hike near Åndalsnes is considered one of Norway's most scenic trails. Explore alpine terrain and majestic vistas.",
+          "image": "https://media.istockphoto.com/id/1140319737/photo/romsdalseggen-ridge-norway.jpg?s=612x612&w=0&k=20&c=GEgtqxhh7AFlsm30azlMsMQMSNOJDia8URFRs8SyDeY="
         },
         {
           "name": "Besseggen Ridge",
-          "description": "Located in Jotunheimen National Park, this exhilarating hike offers stunning views of two glacial lakes and the surrounding peaks. Experience Norway's natural beauty on this iconic ridge trail."
+          "description": "Located in Jotunheimen National Park, this exhilarating hike offers stunning views of two glacial lakes and the surrounding peaks. Experience Norway's natural beauty on this iconic ridge trail.",
+          "image": "https://media.istockphoto.com/id/1500422789/photo/amazing-view-of-the-besseggen-ridge-famous-hiking-spot-in-jotunheimen-national-park-admiring.jpg?s=612x612&w=0&k=20&c=JLm-1kIIScjSn2dIFTfxp-SJJSMcVQix_9m43d_2ScE="
         }
       ]
     },
     {
       "name": "Japan",
       "description": "Welcome to Japan, where ancient traditions blend seamlessly with modern innovation against a backdrop of serene landscapes. Explore historic temples, vibrant cities, and tranquil forests, or embark on unforgettable adventures like hiking the Kumano Kodo or soaking in hot springs.",
+      "image": "https://media.istockphoto.com/id/876560704/photo/fuji-japan-in-spring.jpg?s=612x612&w=0&k=20&c=j1VZlzfNcsjQ4q4yHXJEohSrBZJf6nUhh2_smM4eioQ=",
       "hikes": [
         {
           "name": "Kumano Kodo",
-          "description": "A network of ancient pilgrimage routes in the Kii Mountains, offering hiking options through lush forests, past shrines, and alongside scenic rivers. Immerse yourself in Japanese culture and history on this historic trail."
+          "description": "A network of ancient pilgrimage routes in the Kii Mountains, offering hiking options through lush forests, past shrines, and alongside scenic rivers. Immerse yourself in Japanese culture and history on this historic trail.",
+          "image": "https://media.istockphoto.com/id/834552692/photo/kumano-kodo.jpg?s=612x612&w=0&k=20&c=nRAWV97bpNMgXNSFFXh3jUH-jrPl-5R-1FdfbqIgCMM="
         },
         {
           "name": "Shirakawa-go and Gokayama",
-          "description": "Hike through historic villages in the Japanese Alps, featuring traditional thatched-roof houses and terraced rice fields. Experience the beauty of rural Japan and immerse yourself in local culture."
+          "description": "Hike through historic villages in the Japanese Alps, featuring traditional thatched-roof houses and terraced rice fields. Experience the beauty of rural Japan and immerse yourself in local culture.",
+          "image": "https://media.istockphoto.com/id/810738120/photo/world-heritage-site-suganuma-mountain-village.jpg?s=612x612&w=0&k=20&c=J51X0BKmUSl2AmquwZNJ5g-c3mQdln7KxXzL1dxhbho="
         },
         {
           "name": "Mount Yoshino",
-          "description": "Famous for its cherry blossoms, Mount Yoshino offers scenic hiking trails through forests and along ridges, with stunning views of the surrounding countryside. Experience Japan's natural beauty and cultural heritage on this iconic mountain."
+          "description": "Famous for its cherry blossoms, Mount Yoshino offers scenic hiking trails through forests and along ridges, with stunning views of the surrounding countryside. Experience Japan's natural beauty and cultural heritage on this iconic mountain.",
+          "image": "https://media.istockphoto.com/id/488852217/photo/yoshinoyama-japan.jpg?s=612x612&w=0&k=20&c=owMfDrmzWKpTafW4XK2Cgox-EGuaCZrPnKQX55Xxy7w="
         }
       ]
     },
     {
       "name": "Costa Rica",
       "description": "Uncover the biodiversity and natural beauty of Costa Rica, where lush rainforests, pristine beaches, and active volcanoes await. Immerse yourself in eco-adventures like exploring Corcovado National Park or relaxing in thermal hot springs, all while experiencing \"pura vida\" – the pure life.",
+      "image": "https://media.istockphoto.com/id/1315470777/photo/arenal-at-dusk.jpg?s=612x612&w=0&k=20&c=830ISh4FmKkEa2g9kQIHPIxCg2G9rAxfXuLXQapXhYs=",
       "hikes": [
         {
           "name": "Corcovado National Park",
-          "description": "Explore remote rainforests and pristine beaches in Corcovado National Park, home to diverse wildlife and stunning natural landscapes. Experience Costa Rica's biodiversity and wilderness on this unforgettable hike."
+          "description": "Explore remote rainforests and pristine beaches in Corcovado National Park, home to diverse wildlife and stunning natural landscapes. Experience Costa Rica's biodiversity and wilderness on this unforgettable hike.",
+          "image": "https://media.istockphoto.com/id/1365737018/photo/bairds-tapir-and-a-yellow-headed-caracara.jpg?s=612x612&w=0&k=20&c=TDJBTwaSKH67sv3qXjmYeWlWOpzre7xzj66GZuGdJYE="
         },
         {
           "name": "Arenal Volcano National Park",
-          "description": "Discover the iconic Arenal Volcano and surrounding rainforest on hiking trails in Arenal Volcano National Park. Encounter lush vegetation, wildlife, and volcanic landscapes on this adventure in the Costa Rican wilderness."
+          "description": "Discover the iconic Arenal Volcano and surrounding rainforest on hiking trails in Arenal Volcano National Park. Encounter lush vegetation, wildlife, and volcanic landscapes on this adventure in the Costa Rican wilderness.",
+          "image": "https://media.istockphoto.com/id/1388560096/photo/arenal-volcano-and-arenal-lake-costa-rica.jpg?s=612x612&w=0&k=20&c=zxjhyx4V6BHGkRMgxazgOaqPJHuaI38417k1xn8BdUk="
         },
         {
           "name": "Rio Celeste",
-          "description": "Hike to the stunning blue waters of Rio Celeste waterfall and witness the unique natural phenomenon where two rivers merge to create the distinctive turquoise color. Experience the magic of Costa Rica's natural beauty on this unforgettable trek."
+          "description": "Hike to the stunning blue waters of Rio Celeste waterfall and witness the unique natural phenomenon where two rivers merge to create the distinctive turquoise color. Experience the magic of Costa Rica's natural beauty on this unforgettable trek.",
+          "image": "https://media.istockphoto.com/id/1199422795/photo/waterfall-in-rio-celeste-costa-rica.jpg?s=612x612&w=0&k=20&c=dJIpd4GLG5i7HzhfWiYuGAByQ27Obxq-3Pw5XyELM_w="
         }
       ]
     }
