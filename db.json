@@ -14,11 +14,6 @@
           "name": "The Eiger Trail",
           "description": "A scenic hike from Grindelwald to Kleine Scheidegg, providing breathtaking views of the Eiger North Face and surrounding peaks amidst lush valleys and cascading waterfalls.",
           "image": "https://images.pexels.com/photos/18261770/pexels-photo-18261770/free-photo-of-eiger-mount-in-alps.jpeg?auto=compress&cs=tinysrgb&w=300"
-        },
-        {
-          "name": "The Aletsch Glacier Trail",
-          "description": "Experience the longest glacier in the Alps on this trail from Bettmeralp to Riederalp. Enjoy panoramic views of the Aletsch Glacier and surrounding mountains.",
-          "image": "https://images.pexels.com/photos/13963565/pexels-photo-13963565.jpeg?auto=compress&cs=tinysrgb&w=300"
         }
       ]
     },
@@ -36,11 +31,6 @@
           "name": "Routeburn Track",
           "description": "Crossing between Fiordland and Mt. Aspiring National Parks, this alpine track offers vistas of snow-capped peaks, crystal-clear lakes, and deep valleys amidst stunning landscapes.",
           "image": "https://media.istockphoto.com/id/1356514238/photo/panorama-view-of-lake-harris-and-mountain-ranges-routeburn-track-south-island.jpg?s=612x612&w=0&k=20&c=RRNbi5sALV1bJIAgMhK_vIsowynz5x9hVojZCf3fiOI="
-        },
-        {
-          "name": "Mueller Hut Route",
-          "description": "A challenging hike near Mount Cook village offering panoramic views of New Zealand's highest peaks, including Aoraki/Mount Cook. Experience alpine terrain and breathtaking vistas.",
-          "image": "https://media.istockphoto.com/id/473319374/photo/mueller-hut-in-southern-alps-in-nz.jpg?s=612x612&w=0&k=20&c=o_F0zy5OwBgdEHa068s5_Hw9fNkUU-e6FM3HA7Wm2Jo="
         }
       ]
     },
@@ -58,11 +48,6 @@
           "name": "The Skyline Trail",
           "description": "Located in Jasper National Park, this scenic trail offers sweeping views of mountains, glaciers, and valleys. Experience the beauty of the Canadian Rockies on this iconic hike.",
           "image": "https://media.istockphoto.com/id/612267546/photo/cabot-trail-look-off.jpg?s=612x612&w=0&k=20&c=eZvrYjSQSmFzul2dPNu332WRZCyW0zuevi5EF4SXwAY="
-        },
-        {
-          "name": "The Fundy Footpath",
-          "description": "Stretching along the Bay of Fundy, this challenging hike features rugged cliffs, coastal vistas, and the world's highest tides. Explore remote wilderness and stunning landscapes in New Brunswick.",
-          "image": "https://media.istockphoto.com/id/1278446012/photo/dickson-falls-trail-in-fundy-national-park.jpg?s=612x612&w=0&k=20&c=q4kvuIpHo0PAF60JG64ExO-paLo22DVZpQ0Jy0BO970="
         }
       ]
     },
@@ -80,11 +65,6 @@
           "name": "Romsdalseggen Ridge",
           "description": "Offering panoramic views of the Romsdalen valley and surrounding peaks, this challenging hike near Åndalsnes is considered one of Norway's most scenic trails. Explore alpine terrain and majestic vistas.",
           "image": "https://media.istockphoto.com/id/1140319737/photo/romsdalseggen-ridge-norway.jpg?s=612x612&w=0&k=20&c=GEgtqxhh7AFlsm30azlMsMQMSNOJDia8URFRs8SyDeY="
-        },
-        {
-          "name": "Besseggen Ridge",
-          "description": "Located in Jotunheimen National Park, this exhilarating hike offers stunning views of two glacial lakes and the surrounding peaks. Experience Norway's natural beauty on this iconic ridge trail.",
-          "image": "https://media.istockphoto.com/id/1500422789/photo/amazing-view-of-the-besseggen-ridge-famous-hiking-spot-in-jotunheimen-national-park-admiring.jpg?s=612x612&w=0&k=20&c=JLm-1kIIScjSn2dIFTfxp-SJJSMcVQix_9m43d_2ScE="
         }
       ]
     },
@@ -102,11 +82,6 @@
           "name": "Shirakawa-go and Gokayama",
           "description": "Hike through historic villages in the Japanese Alps, featuring traditional thatched-roof houses and terraced rice fields. Experience the beauty of rural Japan and immerse yourself in local culture.",
           "image": "https://media.istockphoto.com/id/810738120/photo/world-heritage-site-suganuma-mountain-village.jpg?s=612x612&w=0&k=20&c=J51X0BKmUSl2AmquwZNJ5g-c3mQdln7KxXzL1dxhbho="
-        },
-        {
-          "name": "Mount Yoshino",
-          "description": "Famous for its cherry blossoms, Mount Yoshino offers scenic hiking trails through forests and along ridges, with stunning views of the surrounding countryside. Experience Japan's natural beauty and cultural heritage on this iconic mountain.",
-          "image": "https://media.istockphoto.com/id/488852217/photo/yoshinoyama-japan.jpg?s=612x612&w=0&k=20&c=owMfDrmzWKpTafW4XK2Cgox-EGuaCZrPnKQX55Xxy7w="
         }
       ]
     },
@@ -124,12 +99,8 @@
           "name": "Arenal Volcano National Park",
           "description": "Discover the iconic Arenal Volcano and surrounding rainforest on hiking trails in Arenal Volcano National Park. Encounter lush vegetation, wildlife, and volcanic landscapes on this adventure in the Costa Rican wilderness.",
           "image": "https://media.istockphoto.com/id/1388560096/photo/arenal-volcano-and-arenal-lake-costa-rica.jpg?s=612x612&w=0&k=20&c=zxjhyx4V6BHGkRMgxazgOaqPJHuaI38417k1xn8BdUk="
-        },
-        {
-          "name": "Rio Celeste",
-          "description": "Hike to the stunning blue waters of Rio Celeste waterfall and witness the unique natural phenomenon where two rivers merge to create the distinctive turquoise color. Experience the magic of Costa Rica's natural beauty on this unforgettable trek.",
-          "image": "https://media.istockphoto.com/id/1199422795/photo/waterfall-in-rio-celeste-costa-rica.jpg?s=612x612&w=0&k=20&c=dJIpd4GLG5i7HzhfWiYuGAByQ27Obxq-3Pw5XyELM_w="
         }
+        
       ]
     }
   ]
